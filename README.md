@@ -25,8 +25,7 @@ $ not available
 
 ## Stay in touch
 
-- Authors - [Ikechukwu Peter](https://pete.vercel.app)
--
+- Author - [Ikechukwu Peter](https://pete.vercel.app)
 
 ## License
 
